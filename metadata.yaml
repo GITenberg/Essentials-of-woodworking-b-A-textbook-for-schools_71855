@@ -1,0 +1,34 @@
+_repo: Essentials-of-woodworking-b-A-textbook-for-schools_71855
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lawrence, Edwin Victor
+    gutenberg_agent_id: '56428'
+    url: http://www.gutenberg.org/2009/agents/56428
+creator:
+  author:
+    agent_name: Griffith, Ira Samuel
+    birthdate: 1874
+    deathdate: 1924
+    gutenberg_agent_id: '54613'
+    url: http://www.gutenberg.org/2009/agents/54613
+description: ''
+gutenberg_issued: '2023-10-12'
+identifiers:
+  gutenberg: '71855'
+language: en
+pgterms:marc904: https://archive.org/details/essentialsofwood00grif
+pgterms:marc905: 20230424060703griffith
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPeoria :$bThe Manual Arts Press, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Essentials of woodworking : $b A textbook for schools'
+url: http://www.gutenberg.org/ebooks/71855
