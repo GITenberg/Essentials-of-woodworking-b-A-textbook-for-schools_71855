@@ -5,6 +5,9 @@ contributor:
     agent_name: Lawrence, Edwin Victor
     gutenberg_agent_id: '56428'
     url: http://www.gutenberg.org/2009/agents/56428
+covers:
+- cover_type: archival
+  image_path: 71855-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffith, Ira Samuel
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '54613'
     url: http://www.gutenberg.org/2009/agents/54613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71855#Essentials-of-woodworking-b-A-textbook-for-schools
 gutenberg_issued: '2023-10-12'
 identifiers:
   gutenberg: '71855'
